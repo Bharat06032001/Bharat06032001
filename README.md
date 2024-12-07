@@ -1,5 +1,5 @@
 # 💫 About Me:
-2023 Engineering Graduate.<br>**#SOFTWARE TESTING #JAVA #PYTHON  #SQL #SELENIUM #TestNG #CUCUMBER **
+2023 Engineering Graduate.<br> **#SOFTWARE TESTING** **#JAVA #PYTHON**  **#SQL #SELENIUM #TestNG #CUCUMBER** 
 
 
 ## 🌐 Socials:
